@@ -1,0 +1,14 @@
+header .logo{
+	background: url("../images/logo_01.jpg");
+	width: 193px;
+	height: 121px;
+}
+
+nav .logo{
+	background: url("../images/logo_03.jpg") no-repeat;
+	width: 159px;
+	height: 43px;
+}
+
+
+

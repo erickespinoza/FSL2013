@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<slide>
+  <!-- principal slide news -->
+  <noticia>
+    <titulo>Sabaton</titulo>
+     <imagen>images/sabatton.jpg</imagen>
+     <descripcion>Banda anunciada para el festival</descripcion>
+  </noticia>
+  <noticia>
+    <titulo>Overkill</titulo>
+     <imagen>images/overkill_news.jpg</imagen>
+     <descripcion>Banda anuncia para el festival</descripcion>
+  </noticia>
+  <noticia>
+    <titulo>La Lucha</titulo>
+     <imagen>images/lucha_news.jpg</imagen>
+     <descripcion>Lugar del Festival</descripcion>
+  </noticia>
+  <!-- Noticias desplegadas en la pagina noticias -->
+  <news>
+    <titulo>Información sobre venta de entradas para Costa Rica y Centroamérica</titulo>
+    <image>images/venta_entradas1.jpg</image>
+    <descripcion><![CDATA[<p><strong>Mas Información:</strong></p>
+    <p><a href="entradas.html">festsl.com/entradas.html</a></p>]]></descripcion>
+  </news>
+  <news>
+    <titulo>Tristania revela portada de su Nuevo Disco "Darkest White"</titulo>
+    <image>images/tristaniaDarkestWhite.jpg</image>
+    <descripcion><![CDATA[<p>Los fineses de Tristania han revelado la portada de su séptima producción discográfica titulada "Darkest White", la misma fue realizada por el artista Eliran Kantor (Testament, Sodom, Hatebreed) (<a href="http://www.elirankantor.com">http://www.elirankantor.com</a>).</p>
+    <p>El disco verá la luz el próximo 31 de Mayo por Napalm Records.</p>
+    <p>Recuerden que este año miles de fanáticos podrán disfrutar en vivo por primera vez en Costa Rica de un excelente show como parte de la gira que contendrá material de su nuevo disco además de sus grandes éxitos en el  Festival Siembra y Lucha 2013.</p>
+    <p><strong>Mas información:</strong></p>
+    <p><a href="http://www.tristania.com/2010/index.php/darkest-white-out-may-31/">http://www.tristania.com/2010/index.php/darkest-white-out-may-31/</a></p>
+    <p><a href="http://www.tristania.com/2010/index.php/tristania-to-costa-rica/">http://www.tristania.com/2010/index.php/tristania-to-costa-rica/</a></p>]]></descripcion>
+  </news>
+  <news>
+    <titulo>Juho deja Korpiklaani</titulo>
+    <image>images/korpiklaani-jas-rod-marseille-25.jpg</image>
+    <descripcion><![CDATA[<p>El ex-acordionista de la banda Korpiklaani hizo oficial la salida de la banda para dedicarse a realizar sus metas personales fuera de la musica.</p>
+<p>El mismo Juho ha expresado en su facebook oficial:</p>
+
+<p>"I have decided to set my goals elsewhere, as a result of which Korpiklaani will go on without me from now on. Korpiklaani was a prominent part of my life for long, but after these eight and a half years I played in the band I have come to realize that I currently want to experience and pursue something else. </p>  <p>Accordion has never been my primary instrument. I also understood that performing in front of an audience is not exactly what I hugely enjoy. Strange as it sounds, what I most want from making music nowadays is playing guitar at home.</p>  <p> That is what I find relaxing and free of stress. Some people love touring, but because I am a very private person I found living and traveling on the tour bus for four weeks in a row a little challenging. Nevertheless, I got to experience many things I am deeply grateful for and want to thank all Korpiklaani's listeners, fellow bands, crew members and our staff who enabled all of this.</p>  <p> I am glad that the band has now found a truly professional accordionist to take the place of me to take care of the future tours and shows as planned. I wish everyone well. The journey has just begun."</p>
+<p></p>]]></descripcion>
+  </news>
+  <news>
+    <titulo>Comunicado de prensa</titulo>
+    <image>images/logo1.png</image>
+    <descripcion><![CDATA[<p>FESTIVAL SIEMBRA Y LUCHA 2013</p>
+      <p>A medios de comunicación y público en general</p>
+
+    <p>El Festival Siembra y Lucha 2013 (FSL 2013) es un evento que reúne 16 bandas de rock y metal provenientes de 10 paises. En esta segunda edición participarán bandas de Finlandia, Noruega, Suecia, Colombia, Alemania, Estados Unidos, España, El Salvador, Honduras y Costa Rica. Las bandas seleccionadas este año representan diversos géneros de la música metal como Folk, Heavy, Black, Power, Thrash y Death.</p>
+
+    <p>Para la producción es un gusto anunciar oficialmente a SABATON, procedentes de Suecia, OVERKILL que nos visita desde los Estados Unidos junto a sus coterráneos de SANCTUARY. Desde Colombia se presentará la banda KRAKEN y una de las bandas noruegas en el festival será los góticos de TRISTANIA. Además, desde Finlandia contaremos con la participación de los populares maestros del Folk Metal KORPIKLAANI.</p>
+
+    <p>La representación centroamericana no se puede dejar de lado ya que contaremos con las ya conocidas VIRGINIA CLEMM desde El Salvador y DELIRIUM de Honduras además de los nacionales de GRECCO y KRONOS. </p>
+
+    <p>La actividad, con un claro mensaje de defensa y protección del medio ambiente, se realizará en la Finca La Lucha ubicada en el distrito de San Cristóbal de Desamparados el próximo 7 y 8 de diciembre. Los 5 mil asistentes acamparán en el lugar durante la noche del festival y se habilitarán medios de transporte desde 25 puntos diferentes en todo el país.</p>
+
+    <p>Tres bandas internacionales más se sumarán a este impresionante cartel en las próximas semanas. Junto a ellas, más bandas nacionales serán seleccionadas para participar donde se tomará en cuenta la opinión de las primeras 500 personas que compren su entrada.</p>
+    ]]>
+    </descripcion>
+  </news>
+  <news>
+    <titulo>Paquetes FSL 2013</titulo>
+    <image>images/banner_titquetes.jpg</image>
+    <descripcion><![CDATA[<p>Las personas que quieran ser parte de este festival pueden adquirir un paquete FSL 2013 que incluye: entrada para los dos días, acceso al área de acampar, bolso promocional y recuerdo del FSL 2013.</p>
+
+<p>La preventa de las paquetes FSL 2013 iniciará este sábado 16 de marzo a las 10:00 en la tienda Insomnio de San José, y a partir de las 2:00 de la tarde ya se estarán en todos los puntos de venta: tiendas Insomnio en San José y Heredia, Tiendas Subterranean en Cartago y Alajuela, y Paranoia en Mall San Pedro.</p>
+
+<p>Los primeros 500 paquetes FSL 2013 a la venta tendrán un costo de 40 mil colones por los dos días del festival.</p>
+ 
+<p>Los pases Meet & Greet (M&G) con las bandas tendrán un costo de 10 mil colones por banda e incluyen material promocional. Los M&G los pueden adquirir las personas que adquieran los primeros 500 paquetes FSL 2013 y por cada banda se permitirán únicamente 50 personas.</p>
+
+<p>Los precios de los paquetes FSL 2013 después de preventa serán de 55 mil colones o 60 mil colones con un sistema de seis pagos quincenales.
+</p>
+]]></descripcion>
+  </news>
+  <!-- Line up Bands -->
+  <band>
+    <titulo>suffocation</titulo>
+    <imagen>images/suffocation_line.jpg</imagen>   
+  </band>
+  <band>
+    <titulo>sabaton</titulo>
+    <imagen>images/sabaton_line.jpg</imagen>   
+  </band>
+  <band>
+    <titulo>overkill</titulo>
+    <imagen>images/overkill_line.jpg</imagen>   
+  </band>
+  <band>
+    <titulo>mayhem</titulo>
+    <imagen>images/mayhem_line.jpg</imagen>
+  </band>
+  <band>
+    <titulo>immolation</titulo>
+    <imagen>images/immolation_line.jpg</imagen>
+  </band>
+  <band>
+    <titulo>dio disciples</titulo>
+    <imagen>images/dio_line.jpg</imagen>
+  </band>
+  <band>
+    <titulo>korpiklaani</titulo>
+    <imagen>images/korpiklaani_line.jpg</imagen>   
+  </band>
+  <band>
+    <titulo>alestorm</titulo>
+    <imagen>images/alestorm_line.jpg</imagen>   
+  </band>
+  <band>
+    <titulo>tristania</titulo>
+    <imagen>images/tristania_line.jpg</imagen>   
+  </band>
+   <band>
+    <titulo>sanctuary</titulo>
+    <imagen>images/sanctuary_line.jpg</imagen>   
+  </band>
+   <band>
+    <titulo>grecco</titulo>
+    <imagen>images/grecco_line.jpg</imagen>   
+  </band>
+   <band>
+    <titulo>lujuria</titulo>
+    <imagen>images/lujuria_line.jpg</imagen>   
+  </band>
+   <band>
+    <titulo>kraken</titulo>
+    <imagen>images/kraken_line.jpg</imagen>   
+  </band>
+   <band>
+    <titulo>virginia clemm</titulo>
+    <imagen>images/virginiaclemm_line.jpg</imagen>   
+  </band>
+   <band>
+    <titulo>kronos</titulo>
+    <imagen>images/kronos_line.jpg</imagen>   
+  </band>
+  <band>
+    <titulo>delirium</titulo>
+    <imagen>images/delirium_line.jpg</imagen>   
+  </band>
+  <band>
+    <titulo>saurom</titulo>
+    <imagen>images/saurom_line.jpg</imagen>
+  </band>
+</slide>

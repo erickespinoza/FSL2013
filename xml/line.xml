@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<bands>
+  <band>
+    <titulo>sabaton</titulo>
+    <imagen>images/sabaton_line.jpg</imagen>   
+  </band>
+  <band>
+    <titulo>overkill</titulo>
+    <imagen>images/overkill_line.jpg</imagen>   
+  </band>
+  <band>
+    <titulo>korpiklaani</titulo>
+    <imagen>images/korpiklaani_line.jpg</imagen>   
+  </band>
+  <band>
+    <titulo>lujuria</titulo>
+    <imagen>images/lujuria_line.jpg</imagen>   
+  </band>
+  <band>
+    <titulo>tristania</titulo>
+    <imagen>images/tristania_line.jpg</imagen>   
+  </band>
+   <band>
+    <titulo>sanctuary</titulo>
+    <imagen>images/sanctuary_line.jpg</imagen>   
+  </band>
+   <band>
+    <titulo>grecco</titulo>
+    <imagen>images/grecco_line.jpg</imagen>   
+  </band>
+   <band>
+    <titulo>delirium</titulo>
+    <imagen>images/delirium_line.jpg</imagen>   
+  </band>
+   <band>
+    <titulo>kraken</titulo>
+    <imagen>images/kraken_line.jpg</imagen>   
+  </band>
+   <band>
+    <titulo>virginia Clemm</titulo>
+    <imagen>images/virginiaclemm_line.jpg</imagen>   
+  </band>
+   <band>
+    <titulo>kronos</titulo>
+    <imagen>images/kronos_line.jpg</imagen>   
+  </band>
+</bands>

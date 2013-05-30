@@ -1,0 +1,516 @@
+@import url("reset.css");
+
+a{
+	color:#fff;
+}
+
+body{
+	font-family: Arial;
+	background: #fff;
+	color: #fff;
+}
+
+header{
+	margin: 0 auto;
+	background: url("../images/header.jpg");
+	max-width: 976px;
+	height: 121px;
+}
+
+header .logo{
+	background: url("../images/logo_01.jpg");
+	width: 193px;
+	height: 121px;
+}
+
+.info_banda{
+	width:626px;
+	color:#000;
+	padding: 0 10px 0 10px;
+	float: left;
+}
+
+.info_banda h2{
+	font-size: 22px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin:20px 0 20px 0;
+	text-align: center;
+}
+
+.info_banda h3{
+	font-size: 16px;
+	margin: 10px 0 10px 0;
+	font-weight: bold;
+}
+
+.info_banda p{
+	font-size: 12px;
+	margin: 0 0 10px 0;
+	text-align: justify;
+}
+
+.info_banda ul{
+	font-size: 12px;
+	margin: 0 0 10px 20px;
+}
+
+.info_banda li{
+	list-style-type: disc;
+	margin-bottom: 10px;
+}
+
+.info_banda a{
+	color:#000;
+}
+
+.cont{
+	color:#000;
+	padding: 0 10px 0 10px;
+	float: left;
+}
+
+.cont h2,.ticks h2{
+	font-size: 22px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin:20px 0 20px 0;
+	text-align: center;
+}
+
+.cont h3,.ticks h3{
+	font-size: 16px;
+	margin: 10px 0 10px 0;
+	font-weight: bold;
+}
+
+.cont p,.ticks p{
+	font-size: 12px;
+	margin: 0 0 10px 0;
+	text-align: justify;
+}
+
+.cont ul, .ticks ul{
+	font-size: 12px;
+	margin: 0 0 10px 20px;
+}
+
+.cont li, .ticks li{
+	list-style-type: disc;
+	margin-bottom: 10px;
+}
+
+.cont a, .ticks a{
+	color:#000;
+}
+
+.like{
+
+	width: 400px;
+	position:fixed;
+	left: 15px;
+	top:0;
+}
+
+#page{
+	margin: 0 auto;
+	background: #fff;
+	max-width: 976px;
+	color: #fff;
+	overflow: hidden;
+	margin-bottom: 5px;
+}
+
+nav{
+	margin:0 auto;
+	background: #000;
+	max-width: 976px;
+	height: 44px;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	overflow: hidden;
+
+}
+
+nav .logo{
+	background: url("../images/logo_03.jpg") no-repeat;
+	width: 159px;
+	height: 43px;
+}
+
+nav ul{
+	width: 500px;
+	float: left;
+	display:inline;
+	position:relative;
+	bottom:44px;
+	margin-left: 150px;
+}
+
+nav a{
+	color: #fff;
+}
+
+nav li{
+
+	padding: 15px 10px 13px 10px;
+	float:left;
+}
+
+nav li:hover, .active{
+	background: #353535;
+}
+
+nav .search{
+	width: 320px;
+	float: right;
+}
+
+.cse .gsc-control-cse, .gsc-control-cse{
+	padding: 0;
+}
+
+.title1{
+	background: #000;
+	width:100%;
+	height:53px;
+	opacity: 0.8;
+	text-align: right;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+#first{
+	width:100%;
+	margin-top: 5px;
+	overflow: hidden;
+}
+
+#first .slider{
+	background: #000;
+	width: 645px;
+	overflow:hidden;
+	float: left;
+	height: 390px;
+}
+
+#first .slider ul{
+	height: 1170px;
+	position:relative;
+}
+
+
+.slider .title1{
+	position:relative;
+	bottom:56px;
+}
+
+.slider .title1 p{
+	font-size: 35px;
+	padding: 10px 20px 0 0;
+}
+
+.slider .title1 .desc{
+	width: 60%;
+	font-size: 11px;
+	line-height: 12px;
+	vertical-align: middle;
+	display:inline;
+	float: left;
+	text-align: left;
+	padding: 10px 0 0 10px;
+	height: 100%;
+	text-transform: none;
+}
+
+#first .transport{
+	background: url("../images/transport.jpg") no-repeat;
+	width: 328px;
+	float: right;
+	height: 195px;
+}
+
+#first .tickets{
+	background: url("../images/tickets.jpg") no-repeat;
+	width: 328px;
+	height: 190px;
+	float:right;
+	margin-top: 5px;
+	overflow: hidden;
+}
+
+#first .travel{
+	background: url("../images/banner_destino.jpg");
+	width: 328px;
+	height: 190px;
+	float:right;
+	margin-top: 5px;
+	overflow: hidden;
+}
+
+.transport .title1{
+	position: relative;
+	top:142px;
+}
+
+.transport .title1 p{
+	font-size: 18px;
+	color:#fff;
+	line-height: 22px;
+	padding: 5px 10px 0 0 ;
+}
+
+.tickets .title1, .travel .title1{
+	position:relative;
+	top: 137px;
+}
+
+.tickets .title1 p, .travel .title1 p{
+	font-size: 18px;
+	color:#fff;
+	line-height: 22px;
+	padding: 20px 10px 0 0 ;
+	position:relative;
+}
+
+
+
+#second{
+	width:102%;
+	margin: 5px 0;
+	height: 144px;
+	overflow: hidden;
+}
+
+#second ul{
+	margin-left: 8px;
+	position: relative;
+}
+
+#second li{
+	float:left;
+	width:236px;
+	overflow: hidden;
+	margin-right: 5px;
+
+}
+
+.title2{
+	background: #000;
+	width:100%;
+	height: 35px;
+	position:relative;
+	opacity: 0.8;
+	text-transform: uppercase;
+	text-align: right;
+	bottom:37px;
+}
+
+.title2 p{
+	font-weight: bold;
+	padding: 10px 10px 0 0;
+}
+
+#banner{
+	background: url("../images/hor_banner.jpg");
+	width:100%;
+	height: 66px;
+}
+
+#first .news, #first .videos{
+	/*background: #ff0;*/
+	width: 645px;
+	overflow:hidden;
+	float: left;
+	color: #000;
+}
+
+#first .videos iframe{
+	margin-bottom: 20px;
+}
+
+.news article{
+	padding: 20px 10px 10px 10px;
+	border-bottom: #000 1px solid;
+	text-align: center;
+}
+
+
+.news article:first-child{
+	padding: 0 10px 10px 10px;
+}
+
+.news article:last-child{
+	border-bottom: none;
+}
+
+.news article h2{
+	font-size: 30px;
+	margin-bottom: 10px;
+	text-align: left;
+}
+
+.news article p{
+	font-size: 12px;
+	margin-bottom: 10px;
+	text-align: justify;
+}
+
+.news article a{
+	color: #000;
+	font-weight: bold;
+}
+
+.news article strong{
+	font-weight: bold;
+}
+
+#first .lineup{
+	/*background: #000;*/
+	width:100%;
+	overflow: hidden;
+	margin-left: 8px;
+}
+
+#first .lineup li{
+	width: 236px;
+	float: left;
+	margin: 0 5px 5px 0; 
+	overflow: hidden;
+	height: 144px;
+}
+
+.slider form{
+	margin: 40px 0 0 20px;
+	font-size: 14px;
+}
+
+.slider form tr{
+	padding-bottom: 10px;
+}
+
+.slider input[type="submit"], .slider input[type="select"]{
+	width: 100px;
+	height: 30px;
+	font-size: 12px;
+	line-height: 30px;
+	font-weight: bold;
+}
+
+.slider h2{
+	margin-top: 20px;
+	text-align: center;
+}
+
+#cr{
+	float:right;
+	display: inline;
+	position: relative;
+	bottom:30px;
+	font-size: 12px;
+	padding: 0 10px 0 0;
+}
+
+#cr img{
+	position: relative;
+	top: 3px;
+}
+
+#first .ticks{
+	width: 626px;
+	color: #000;
+	float:left;
+}
+
+footer{
+	margin: 0 auto;
+	max-width: 976px;
+	height:128px;
+}
+
+footer li{
+	float:left;
+}
+
+footer .patroc{
+	background: url("../images/patroc.jpg");
+	width: 322px;
+	height: 128px;
+	margin-right: 5px;
+}
+
+footer .follow{
+	background: url("../images/follow.jpg");
+	width: 322px;
+	height: 128px;
+	margin-right: 5px;
+}
+
+footer .info{
+	background: url("../images/info.jpg");
+	width: 322px;
+	height: 128px;
+
+}
+
+.social{
+	margin-top: 5px;
+	background: #333333;
+	width:329px;
+	float:right;
+	display: block;
+}
+
+
+@media screen and (max-width: 640px){
+	nav{
+		height: auto;
+	}
+
+	nav li{
+		float:none;
+		height: 60px;
+	}
+
+	#first .slider, #first .slider li,#first .news, #first .info_banda,.cont{
+		width:100%;
+	}
+
+	#first .info_banda{
+		padding: 0 ;
+	}
+
+	#first .transport, #first .tickets, #first .travel{
+		width:100%;
+	}
+
+	.slider .title1 p{
+		font-size: 18px;
+	}
+
+	#second li{
+		text-align: center;
+		width:100%;
+	}
+
+	footer, footer .patroc, footer .info,footer .follow{
+		width:100%;
+	}
+
+	.cont iframe,
+	.cont object,
+	.cont embed {
+	    width: 100%;
+	    height: 100%;
+	}
+
+	#first .videos iframe, #first .videos object, #first .videos embed{
+		width: 100%;
+	}
+
+	#first .ticks{
+		width: 100%;
+	}
+
+
+}

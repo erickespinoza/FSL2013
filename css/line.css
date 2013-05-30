@@ -1,0 +1,14 @@
+#first .lineup{
+	/*background: #000;*/
+	width:100%;
+	overflow: hidden;
+	margin-left: 8px;
+}
+
+#first .lineup li{
+	width: 236px;
+	float: left;
+	margin: 0 5px 5px 0; 
+	overflow: hidden;
+	height: 144px;
+}
