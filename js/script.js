@@ -26,10 +26,21 @@ $(function(){
 	// }).mouseout(function(){
 	// 	$(this).find(".title2").css({"background":"#000"});
 	// });
-
-
-	setInterval(function(){anim()},5000);
-	setInterval(function(){animline()},30000);
+	var isMenuShow = false;
+	$(".menu_mob").click(function(){
+		if(isMenuShow){
+			isMenuShow = false;
+			$("nav ul").hide();
+		}else{
+			isMenuShow = true;
+			$("nav ul").show();
+		}
+	});
+	if($(window).width()>768){
+		setInterval(function(){anim()},5000);
+		setInterval(function(){animline()},30000);	
+	}
+	
 
 	var top = -456;
 	var topline = -184;

@@ -138,6 +138,10 @@ nav .logo{
 	height: 43px;
 }
 
+nav .menu_mob{display:none; overflow: hidden;cursor:pointer;}
+
+nav .menu_mob img{margin: 10px}
+
 nav ul{
 	width: 500px;
 	float: left;
@@ -462,14 +466,29 @@ footer .info{
 }
 
 
-@media screen and (max-width: 640px){
+@media screen and (max-width: 768px){
+
+	#first img{width:100%;}
+
+	#first .slider, #first .slider ul{height: auto;}
+
+	.slider .title1{bottom: 0;}
+
+	header{display:none;}
+
+	nav .menu_mob{display:inline;}
+
 	nav{
 		height: auto;
 	}
 
+	nav .logo{display:none;}
+
+	nav ul{bottom: 0;margin: 0;display:none;}
+
 	nav li{
 		float:none;
-		height: 60px;
+		height: 15px;
 	}
 
 	#first .slider, #first .slider li,#first .news, #first .info_banda,.cont{
@@ -480,37 +499,46 @@ footer .info{
 		padding: 0 ;
 	}
 
-	#first .transport, #first .tickets, #first .travel{
+	#first .transport, #first .tickets, #first .travel,#banner{
 		width:100%;
+		background-size: 100% 100%;
 	}
 
 	.slider .title1 p{
 		font-size: 18px;
 	}
 
+	#second{height: auto;}
+
 	#second li{
 		text-align: center;
-		width:100%;
+		width:23%;
 	}
+	#first .lineup .title2{bottom:37px;}
+	.title2{height: 25px;font-size:10px;bottom:0;}
+	.title2 p{padding: 2px 10px 0 0;}
+
+	#second img{width: 100%;}
 
 	footer, footer .patroc, footer .info,footer .follow{
 		width:100%;
 	}
 
-	.cont iframe,
-	.cont object,
-	.cont embed {
+	footer .patroc, footer .follow, footer .info{ background-size: 100% 100%}
+	
+	.videos iframe,
+	.videos object,
+	.videos embed {
+		
 	    width: 100%;
-	    height: 100%;
+	    height: 50%;
 	}
 
-	#first .videos iframe, #first .videos object, #first .videos embed{
-		width: 100%;
-	}
+	
 
 	#first .ticks{
 		width: 100%;
 	}
 
-
+	.social{display: none}
 }
