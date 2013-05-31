@@ -491,18 +491,20 @@ footer .info{
 		height: 15px;
 	}
 
-	#first .slider, #first .slider li,#first .news, #first .info_banda,.cont{
+	#first .slider, #first .slider li,#first .news{
 		width:100%;
 	}
 
-	#first .info_banda{
-		padding: 0 ;
-	}
+
+	#first .info_banda,.cont,#first .ticks{width:95%;padding: 0 2.5%;}
 
 	#first .transport, #first .tickets, #first .travel,#banner{
 		width:100%;
 		background-size: 100% 100%;
 	}
+
+	#first .lineup a,#first .lineup ul,#first .lineup li{width:100%!important;}
+	#first .lineup li{height: auto!important;}
 
 	.slider .title1 p{
 		font-size: 18px;
@@ -532,12 +534,6 @@ footer .info{
 		
 	    width: 100%;
 	    height: 50%;
-	}
-
-	
-
-	#first .ticks{
-		width: 100%;
 	}
 
 	.social{display: none}
