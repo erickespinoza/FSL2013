@@ -101,6 +101,10 @@
     <imagen>images/dio_line.jpg</imagen>
   </band>
   <band>
+    <titulo>stratovarius</titulo>
+    <imagen>images/stratovarius_line.jpg</imagen>
+  </band>
+  <band>
     <titulo>korpiklaani</titulo>
     <imagen>images/korpiklaani_line.jpg</imagen>   
   </band>
