@@ -120,14 +120,6 @@
     <titulo>sanctuary</titulo>
     <imagen>images/sanctuary_line.jpg</imagen>   
   </band>
-  <band>
-    <titulo>advent of bedlam</titulo>
-    <imagen>images/advent_line.jpg</imagen>
-  </band>
-   <band>
-    <titulo>grecco</titulo>
-    <imagen>images/grecco_line.jpg</imagen>   
-  </band>
    <band>
     <titulo>lujuria</titulo>
     <imagen>images/lujuria_line.jpg</imagen>   
@@ -139,14 +131,30 @@
    <band>
     <titulo>virginia clemm</titulo>
     <imagen>images/virginiaclemm_line.jpg</imagen>   
-  </band>
-   <band>
-    <titulo>kronos</titulo>
-    <imagen>images/kronos_line.jpg</imagen>   
-  </band>
+  </band>  
   <band>
     <titulo>delirium</titulo>
     <imagen>images/delirium_line.jpg</imagen>   
+  </band>
+  <band>
+    <titulo>colemesis</titulo>
+    <imagen>images/colemesis_line.jpg</imagen>
+  </band>
+  <band>
+    <titulo>pneuma</titulo>
+    <imagen>images/pneuma_line.jpg</imagen>
+  </band>
+  <band>
+    <titulo>advent of bedlam</titulo>
+    <imagen>images/advent_line.jpg</imagen>
+  </band>
+  <band>
+    <titulo>grecco</titulo>
+    <imagen>images/grecco_line.jpg</imagen>   
+  </band>
+  <band>
+    <titulo>kronos</titulo>
+    <imagen>images/kronos_line.jpg</imagen>   
   </band>
   <band>
     <titulo>saurom</titulo>
