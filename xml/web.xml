@@ -89,6 +89,10 @@
     <imagen>images/overkill_line.jpg</imagen>   
   </band>
   <band>
+    <titulo>primal fear</titulo>
+    <imagen>images/primal_line.jpg</imagen>
+  </band>
+  <band>
     <titulo>mayhem</titulo>
     <imagen>images/mayhem_line.jpg</imagen>
   </band>
